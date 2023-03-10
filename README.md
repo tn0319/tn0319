@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=539165&height=300&section=header&text=welcome&fontSize=90&fontColor=fff&desc=Developing%20this%20Gitub%20and%20me)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=539165&height=300&section=header&text=welcome&fontSize=90&fontColor=fff&desc=Developing%20Gitub%20and%20me&descAlign=100&descAlignY=80)
 
 <div align="center">
 import React, {UseState, UseEffect} from "react";<br/><br/>
@@ -6,7 +6,7 @@ import React, {UseState, UseEffect} from "react";<br/><br/>
 const WangGanJi_Fe = ({ passion🔥 }) => {<br/>
     const [skill, setSkill] = useState(1);<br/><br/>
     UseEffect(() => {<br/>
-        setSkill(pre => pre ** 2)<br/>
+        setSkill(pre => pre ** 2)<br/
     },[passion🔥])<br/>
 }
 
