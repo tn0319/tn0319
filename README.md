@@ -19,10 +19,10 @@ export default WangGanJi_Fe;
 
 👩‍🌾 Tech Stack 🌾
 <div>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
-    <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
-    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Scss&logoColor=white">
+    <img src="https://img.shields.io/badge/React-539165?style=for-the-badge&logo=React&logoColor=white">
+    <img src="https://img.shields.io/badge/Redux-3F497F?style=for-the-badge&logo=Redux&logoColor=white">
+    <img src="https://img.shields.io/badge/TypeScript-F7C04A?style=for-the-badge&logo=TypeScript&logoColor=black">
+    <img src="https://img.shields.io/badge/Sass-F8F5E4?style=for-the-badge&logo=Scss&logoColor=black">
 </div><br/><br/><br/>
 </div>
 
