@@ -1,4 +1,5 @@
 <div align="center">
+![header](https://capsule-render.vercel.app/api?text=welcome&type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 import React, {UseState, UseEffect} from "react";<br/><br/>
 
 const WangGanJi_Fe = ({ passion🔥 }) => {<br/>
@@ -20,7 +21,7 @@ export default WangGanJi_Fe;
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
     <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
-    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white">
+    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Scss&logoColor=white">
 </div><br/><br/><br/>
 </div>
 
