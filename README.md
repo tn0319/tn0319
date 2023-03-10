@@ -11,9 +11,9 @@ const WangGanJi_Fe = ({ passion🔥 }) => {
 export default WangGanJi_Fe;
 
 
-안녕하세요🙋
-코딩을 즐거워하고 성장에 욕심많은
-프론트엔드를 꿈꾸는 유수진입니다.
+안녕하세요🙋<br/>
+코딩을 즐거워하고 성장에 욕심많은<br/>
+프론트엔드를 꿈꾸는 유수진입니다.<br/>
 
 👩‍🌾ech Stack🌾
 <div>
