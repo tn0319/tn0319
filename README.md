@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=539165&height=300&section=header&text=welcome&fontSize=90&fontColor=fff&desc=Developing%20Gitub%20and%20me&descAlign=60&descAlignY=65&fontAlign=20)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=539165&height=300&section=header&text=welcome&fontSize=90&fontColor=fff&desc=Developing%20Gitub%20and%20me&descAlign=60&descAlignY=65&fontAlignY=20)
 
 <div align="center">
 import React, {UseState, UseEffect} from "react";<br/><br/>
