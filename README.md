@@ -1,5 +1,5 @@
-<div align="center">
 ![header](https://capsule-render.vercel.app/api?text=welcome&type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+<div align="center">
 import React, {UseState, UseEffect} from "react";<br/><br/>
 
 const WangGanJi_Fe = ({ passion🔥 }) => {<br/>
