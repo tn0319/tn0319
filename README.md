@@ -3,14 +3,14 @@
 <div align="center">
 import React, {UseState, UseEffect} from "react";<br/><br/>
 
-const WangGanJi_Fe = ({ passion🔥 }) => {<br/>
+const **WangGanJi_Fe** = ({ passion🔥 }) => {<br/>
     const [skillful, setSkillful] = useState(1);<br/><br/>
     UseEffect(() => {<br/>
         setSkillful(pre => pre ** 2)<br/>
     },[passion🔥])<br/>
 }
 
-export default WangGanJi_Fe;
+export default **WangGanJi_Fe**;
 
 
 안녕하세요🙋<br/>
