@@ -4,7 +4,7 @@
 import React, {UseState, UseEffect} from "react";<br/><br/>
 
 const **WangGanJi_Fe** = ({ passion🔥 }) => {<br/>
-    const [skillful, setSkillful] = useState(1);<br/><br/>
+    const [skillful, setSkillful] = useState(5);<br/><br/>
     UseEffect(() => {<br/>
         setSkillful(pre => pre ** 2)<br/>
     },[passion🔥])<br/>
