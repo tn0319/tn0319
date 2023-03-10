@@ -23,6 +23,8 @@ export default WangGanJi_Fe;
     <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white">
 </div>
 <br/>
-![tn0319's github stats](https://github-readme-stats.vercel.app/api?username=tn0319&show_icons=true&theme=react)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tn0319&layout=compact)](https://github.com/tn0319/github-readme-stats)
+<div>
+    ![tn0319's github stats](https://github-readme-stats.vercel.app/api?username=tn0319&show_icons=true&theme=react)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tn0319&layout=compact)](https://github.com/tn0319/github-readme-stats)
+</div>
 </div>
