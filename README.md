@@ -7,7 +7,8 @@ const **WangGanJi_Fe** = ({ passion🔥 }) => {<br/>
     const [skillful, setSkillful] = useState(5);<br/><br/>
     UseEffect(() => {<br/>
         setSkillful(prev => prev ** 2)<br/>
-    },[passion🔥])}
+    },[passion🔥])<br/>
+}
 
 export default **WangGanJi_Fe**;
 
