@@ -1,16 +1,16 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=539165&height=300&section=header&text=welcome&fontSize=90&fontColor=fff&desc=Developing%20this%20github%20and%20me&descAlign=60&descAlignY=55&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=539165&height=300&section=header&text=welcome&fontSize=90&fontColor=fff&fontAlignY=40)
 
 <div align="center">
 import React, {UseState, UseEffect} from "react";<br/><br/>
 
-const **WangGanJi_Fe** = ({ passion🔥 }) => {<br/>
+const **Fe** = ({ passion🔥 }) => {<br/>
     const [skillful, setSkillful] = useState(5);<br/><br/>
     UseEffect(() => {<br/>
         setSkillful(prev => prev ** 2)<br/>
     },[passion🔥])<br/>
 }
 
-export default **WangGanJi_Fe**;
+export default **Fe**;
 
 
 안녕하세요🙋<br/>
