@@ -1,21 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=539165&height=300&section=header&text=welcome&fontSize=90&fontColor=fff&fontAlignY=40)
 
-<div align="center">
-import React, {UseState, UseEffect} from "react";<br/><br/>
-
-const **Fe** = ({ passion🔥 }) => {<br/>
-    const [skillful, setSkillful] = useState(5);<br/><br/>
-    UseEffect(() => {<br/>
-        setSkillful(prev => prev ** 2)<br/>
-    },[passion🔥])<br/>
-}
-
-export default **Fe**;
-
 
 안녕하세요🙋<br/>
 코딩을 즐거워하고 성장에 욕심많은<br/>
-프론트엔드를 꿈꾸는 유수진입니다.<br/>
+프론트엔드 유수진입니다.<br/>
 
 👩‍🌾 Tech Stack 🌾
 <div>
